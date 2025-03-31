@@ -44,16 +44,20 @@ I'm working on a real-time multi-object detection project for trash classificati
 
 To address this, I mapped YOLOv5's 80 classes into four broader categories to provide a more generalized classification. I then pipelined the two models, combining their results to improve overall detection accuracy.
 
-Picture 1 shows the results of the fine-tuned YOLOv5 model, while Picture 2 demonstrates the effect of the class mapping approach.
 
-![Image Alt Text](./my-app/images/test_merge_v8_1.png)
-![Image Alt Text](./my-app/images/test_merge_v8_2.png)
-![Image Alt Text](./my-app/images/test_merge_v8_3.png)
 
-![Image Alt Text](./my-app/images/test_taco_1.png)
-![Image Alt Text](./my-app/images/test_taco_2.png)
-![Image Alt Text](./my-app/images/test_taco_3.png)
+| YOLOv8 Model | YOLOv8 Model | YOLOv8 Model |
+|-------------|-------------|-------------|
+| ![Image 1](./my-app/images/test_merge_v8_1.png) | ![Image 2](./my-app/images/test_merge_v8_2.png) | ![Image 3](./my-app/images/test_merge_v8_3.png) |
 
-![Image Alt Text](./my-app/images/test_combine.png)
+| Fine-Tuned Model | Fine-Tuned Model | Fine-Tuned Model |
+|------------------|------------------|------------------|
+| ![Image 4](./my-app/images/test_taco_1.png) | ![Image 5](./my-app/images/test_taco_2.png) | ![Image 6](./my-app/images/test_taco_3.png) |
+
+| Combined Model |
+|---------------|
+| ![Image 7](./my-app/images/test_combine.png) |
+
+
 
 
