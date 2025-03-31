@@ -38,3 +38,12 @@ Deploy the app, and test in mobile devices.
 HTML, CSS, JavaScript, Node.JS, FireLLaVA-13b APIs
 
 ![Image Alt Text](./my-app/images/demo.png)
+
+### After the Hackathon
+I'm working on a real-time multi-object detection project for trash classification. I fine-tuned the YOLOv5 model using the open-source TACO dataset, which is specialized in detecting trash-related objects. The trained model performs well in identifying specific items like packages and bottles but struggles with food leftovers and more general waste.
+
+To address this, I mapped YOLOv5's 80 classes into four broader categories to provide a more generalized classification. I then pipelined the two models, combining their results to improve overall detection accuracy.
+
+Picture 1 shows the results of the fine-tuned YOLOv5 model, while Picture 2 demonstrates the effect of the class mapping approach.
+
+
