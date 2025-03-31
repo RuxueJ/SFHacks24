@@ -46,4 +46,14 @@ To address this, I mapped YOLOv5's 80 classes into four broader categories to pr
 
 Picture 1 shows the results of the fine-tuned YOLOv5 model, while Picture 2 demonstrates the effect of the class mapping approach.
 
+![Image Alt Text](./my-app/images/test_merge_v8_1.png)
+![Image Alt Text](./my-app/images/test_merge_v8_2.png)
+![Image Alt Text](./my-app/images/test_merge_v8_3.png)
+
+![Image Alt Text](./my-app/images/test_taco_1.png)
+![Image Alt Text](./my-app/images/test_taco_2.png)
+![Image Alt Text](./my-app/images/test_taco_3.png)
+
+![Image Alt Text](./my-app/images/test_combine.png)
+
 
